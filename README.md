@@ -18,6 +18,8 @@ Written for game programming lesson
 	
 	*Setup for ZigZag
 	
+There are examples of the topics mentioned.
+	
 For C# codes "ZigZagGame\Assets\Scripts"
 
 Some image and audio materials have not been uploaded. So it may not work properly if downloaded.
